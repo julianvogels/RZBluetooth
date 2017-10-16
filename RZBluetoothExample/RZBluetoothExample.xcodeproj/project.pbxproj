@@ -210,6 +210,7 @@
 				TargetAttributes = {
 					AB55E5561B7E47F9009781B8 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = 2JUPNC2MSJ;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 0;
@@ -471,10 +472,11 @@
 			baseConfigurationReference = 98E5FFAFAA33FF3FE7A91F21 /* Pods-RZBluetoothExample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2JUPNC2MSJ;
 				INFOPLIST_FILE = RZBluetoothExample/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.raizlabs.RZBluetoothExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.soundbrenner.rzbluetoothtest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -484,10 +486,11 @@
 			baseConfigurationReference = 52F5A3AFF6811E2C5B71E9A9 /* Pods-RZBluetoothExample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 2JUPNC2MSJ;
 				INFOPLIST_FILE = RZBluetoothExample/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.raizlabs.RZBluetoothExample;
+				PRODUCT_BUNDLE_IDENTIFIER = com.soundbrenner.rzbluetoothtest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
